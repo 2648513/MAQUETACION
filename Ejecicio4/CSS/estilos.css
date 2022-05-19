@@ -1,0 +1,133 @@
+html{
+    display: flex;
+    justify-content: center;
+}
+body{
+    width: 1100px;
+    background-color: plum;
+    display: flex;
+    flex-direction: column;
+}
+header{
+    width: 1100px;
+    background-color: paleturquoise;
+    height: 200px;
+    display: flex;
+}
+#LOGO{
+    width: 300px;
+    height: 200px;
+    background-color: pink;
+}
+#MENU{
+    width: 800px;
+    height: 200px;
+    background-color: palegreen;
+}
+a.link{
+    text-decoration: none;
+    color: black;
+    padding: 15px;
+}
+a.hover{
+    text-decoration:  none;
+    color: darksalmon;
+    background-color: darkseagreen;
+    color: dodgerblue;
+    padding: 15px;
+}
+main{
+    display: flex;
+}
+article{
+    height: 810px;
+    width: 300px;
+    background-color: lightseagreen;
+}
+aside{
+    height: 800px;
+    width: 800px;
+    background-color: palegoldenrod;
+}
+#contenedor1{
+    display: flex;
+    background-color: palegoldenrod;
+    height: 150px;
+    width: 760px;
+    margin: 20px;
+}
+.caja1{
+    background-color: violet;
+    height: 150px;
+    width: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.caja2{
+    background-color: rebeccapurple;
+    height: 150px;
+    width: 510px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#contenedor2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: palegoldenrod;
+    height: 150px;
+    width: 760px;
+    margin: 20px;
+}
+.caja3{
+    background-color: violet;
+    height: 150px;
+    width: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.caja4{
+    background-color: rebeccapurple;
+    height: 150px;
+    width: 510px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#contenedor3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: palegoldenrod;
+    height: 150px;
+    width: 760px;
+    margin: 20px;
+}
+.caja5{
+    background-color: violet;
+    height: 150px;
+    width: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.caja6{
+    background-color: rebeccapurple;
+    height: 150px;
+    width: 510px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.texto1{
+    font-family:  fuentetexto1;
+}
+.texto2{
+    font-family: fuentetexto2;
+}
+.texto3{
+    font-family: fuentetexto3;
+}
